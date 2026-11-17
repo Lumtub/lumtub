@@ -1,1 +1,3 @@
-# lumtub
+# Lumtub
+
+The code and releases live at https://github.com/0x696c757a696f/lumtub
